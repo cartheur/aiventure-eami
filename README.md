@@ -25,7 +25,7 @@ For the purposes of posterity, the scripts as written in these books have been c
 
 ## Working with the scripts
 
-A recent Windows version used in past experiments (v.2.4.8) is contained in the emulator [folder](/emulator/trs80gp.exe). The most recent published version is contained in the zip archive and it contains the versions for the various platforms.
+A recent Windows version used in past experiments (v.2.4.8) is contained in the emulator [folder](/emulator/). The most recent published version is contained in the zip archive and it contains the versions for the various platforms.
 
 ## Experiments
 
@@ -33,4 +33,10 @@ Last summer (2022) a set of Alpha-1 experiments were run with the emulator. It w
 
 ## The PI-4 experiments
 
-Words.
+The Rasperry-Pi 4 is an excellent device that brings the expected power to a battery-powered context. I ordered the 8GB version and it took nine months for it to arrive.
+
+![PI-4 w/8GB](/images/pi-4.png "Working hardware")
+
+It has a Raspbian Debian Bullseye server image with a non-interactive install so a linux computer (the best choice when developing) can use and SSH with scp to get the scripts in the emulator.
+
+Todo: Check if the server version is good enough, else, need a desktop version.
