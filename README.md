@@ -1,3 +1,6 @@
+[![GitHub license](https://img.shields.io/github/license/cartheur/aiventure-eami)](https://github.com/cartheur/aiventure-eami/blob/main/LICENSE.txt)
+[![GitHub issues](https://img.shields.io/github/issues/cartheur/aiventure-eami)](https://github.com/cartheur/aiventure-eami/issues)
+
 # aiventure-eami
 
 May the spirit of David Lee Heiserman guide the substance, flow, and outcomes of this open-source project.
