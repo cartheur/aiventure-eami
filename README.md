@@ -44,7 +44,11 @@ And copy the individual folders from the "experiments". Then once in the runtime
 
 It will bring up the emulator window and you can choose to start the program. For example:
 
-'trs80gp.exe 04-alpha1-compilation.bas' will . . .
+'trs80gp.exe 04-alpha1-compilation.bas' will ask you for parameters, such as the number of cycles to run:
+
+![game params](/images/parameters.png "parameters")
+
+Then run the analysis:
 
 ![game play](/images/gameplay1.png "play")
 
