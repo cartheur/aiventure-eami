@@ -60,4 +60,4 @@ The Rasperry-Pi 4 is an excellent device that brings the expected power to a bat
 
 It has a Raspbian Debian Bullseye server image with a non-interactive install so a linux computer (the best choice when developing) can use and SSH with scp to get the scripts in the emulator.
 
-Todo: Check if the server version is good enough, else, need a desktop version.
+You will need the desktop version of Raspbian OS. Best done through the Raspberry Pi Imager.
