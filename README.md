@@ -7,13 +7,13 @@ May the spirit of David Lee Heiserman guide the substance, flow, and outcomes of
 
 ![David Heiserman](/images/Heiserman.png "Spiritual guide")
 
-This project is dedicated to the late David Heiserman (1940 - 2020) who wrote engineering books on many topics. However, the ones that stir the most interest in this context are those:
+This project is dedicated to the late David Heiserman (1940 - 2020) who wrote engineering books on many topics. However, the ones that have the most relevant interest to the aims of this project are:
 
-* How to build your own working robot (Buster, 1976)
-* How to build your own self-progamming robot (Rodney, 1979)
-* Robot intelligence with experience (1981)
-* Projects in machine intelligence for your home computer (1982)
-* Build your own working robot, the second generation (1987)
+* How to build your own working robot                       (Buster, 1976)
+* How to build your own self-progamming robot               (Rodney, 1979)
+* Robot intelligence with experiments                       (1981)
+* Projects in machine intelligence for your home computer   (TRS-80, 1982)
+* Build your own working robot, the second generation       (Rodney, 1987)
 
 ## What is here
 
@@ -29,7 +29,24 @@ A recent Windows version used in past experiments (v.2.4.8) is contained in the 
 
 ## Working with the emulator
 
-A description of how to run the scripts.
+Create a folder in the root file folder called "runtime". In it copy whatever version suits your testing computer to run the emulator:
+
+* Linux (32-bit)
+* Linux (64-bit)
+* Mac
+* Raspberry-pi (32-bit)
+* Raspberry-pi (64-bit)
+* Windows
+
+And copy the individual folders from the "experiments". Then once in the runtime folder, run this command:
+
+'trs80gp.exe <PATH TO THE SCRIPT TO RUN>'
+
+It will bring up the emulator window and you can choose to start the program. For example:
+
+'trs80gp.exe 04-alpha1-compilation.bas' will . . .
+
+![game play](/images/gameplay.png "play")
 
 ## Experiments
 
