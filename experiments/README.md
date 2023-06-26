@@ -15,9 +15,13 @@ The first discussion is simplistic arrangments of what is and what can be done w
     - The code on pages 88-90 is contained in the file: "alpha1-compilation.bas" in the subfolder "data".
 
 With the code in place, use the 05 March 2022 build of trs80gp (via the Discord channel) and run it in the context of a TRS-80 Model I emulator. There is a mention of a conversion for the Model III - a more common emulator - but perhaps more productive to think how to convert the code to C#, where at some point it can enter the animals codebase. Have the code and emulator in the same directory (or keep the directories where the code is stored in the PATH), then
-1. Linux. ./trs80gp 02-alpha1-scoring.bas
+
+'trs80gp.exe <PATH TO BASIC FILE>'
+
+1. Linux -- './trs80gp 02-alpha1-scoring.bas'
 2. Windows. trs80gp.exe alpha1-basic.bas
-    - Best to run in Linux when on Linux as it will save system resources
+
+The notion of using a Pi is to optimize resources for the longer-running files, as well as those that need deeper study.
 
 1. Testing the code pieces:
     a. 01-alpha1-basic.png
@@ -26,7 +30,7 @@ With the code in place, use the 05 March 2022 build of trs80gp (via the Discord 
     d. 03-alpha1-paint.png
     e. 04-alpha1-compilation.png
 
-    Works brilliantly and very easy with the trs80gp application. What is the process now, _exactly_?
+    Works brilliantly and very easy with the trs80gp application.
 
 The next discussion is an extension of sophistication of the behavior of alpha-level intelligence. The code segments are much larger and share some of the earlier code as snippets. But I will skip this for now as the code is VERY long so in the interest of brevity, will move-on to beta intelligence.
 
