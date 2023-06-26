@@ -26,7 +26,7 @@ With the code in place, use the 05 March 2022 build of trs80gp (via the Discord 
     d. 03-alpha1-paint.png
     e. 04-alpha1-compilation.png
 
-    Works brilliantly and very easy with the trs80gp application. ;-)
+    Works brilliantly and very easy with the trs80gp application. What is the process now, _exactly_?
 
 The next discussion is an extension of sophistication of the behavior of alpha-level intelligence. The code segments are much larger and share some of the earlier code as snippets. But I will skip this for now as the code is VERY long so in the interest of brevity, will move-on to beta intelligence.
 
