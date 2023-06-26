@@ -40,7 +40,7 @@ Create a folder in the root file folder called "runtime". In it copy whatever ve
 
 And copy the individual folders from the "experiments". Then once in the runtime folder, run this command:
 
-'trs80gp.exe <PATH TO THE SCRIPT TO RUN>'
+'trs80gp.exe PATH-TO-THE-SCRIPT-TO-RUN'
 
 It will bring up the emulator window and you can choose to start the program. For example:
 
