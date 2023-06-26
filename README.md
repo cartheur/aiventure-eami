@@ -22,4 +22,4 @@ For the purposes of posterity, the scripts as written in these books have been c
 
 ## Working with the scripts
 
-Todo.
+A recent Windows version used in past experiments (v.2.4.8) is contained in the emulator [folder](/emulator/trs80gp.exe). The most recent published version is contained in the zip archive and it contains the versions for the various platforms.
