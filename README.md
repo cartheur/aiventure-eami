@@ -46,7 +46,7 @@ It will bring up the emulator window and you can choose to start the program. Fo
 
 'trs80gp.exe 04-alpha1-compilation.bas' will . . .
 
-![game play](/images/gameplay.png "play")
+![game play](/images/gameplay1.png "play")
 
 ## Experiments
 
