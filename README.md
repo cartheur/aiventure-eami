@@ -56,6 +56,10 @@ And output the results of the agents' work:
 
 ![game output](/images/output.png "output")
 
+The meaning implied in the data, Chapter Six of (1982), is:
+
+<-talk about the data and its meaning/context->
+
 ## Experiments
 
 Last summer (2022) a set of Alpha-1 experiments were run with the emulator. It was discovered due to the length of runtime of some routines, it was a good idea to run it on an embedded board. The first choice was a NVIDIA Jetson that kept shutting down about four minutes into the running script. The next choice was a raspberry pi. As the version 3s are not suitable, an order was placed for a pi-4 that only arrived a few weeks ago. This project will revisit these experiments using the emulator on the pi-4.
