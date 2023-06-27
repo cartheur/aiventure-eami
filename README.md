@@ -62,7 +62,7 @@ And output the results of the agents' work:
 
 The meaning implied in the data, Chapter Six of (1982), is:
 
-<-talk about the data and its meaning/context->
+<-talk about the data and its meaning/context here->
 
 ## Experiments
 
