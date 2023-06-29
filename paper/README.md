@@ -4,4 +4,4 @@ The immediate output-goal of this project is to generate an analytical paper on 
 
 ## The publisher
 
-On the way to them, start [here](https://www.techrxiv.org/f/about).
+On the way to them, start [here](https://www.techrxiv.org/f/about). A good way.
