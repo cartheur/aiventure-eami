@@ -4,4 +4,4 @@ The immediate output-goal of this project is to generate an analytical paper on 
 
 ## The publisher
 
-On the way to them, start [here](https://www.techrxiv.org/f/about). A good way. A good way indeed, the issue is _always_ the affliation. But a whole chapter? Now how much does that cost?
+On the way to them, start [here](https://www.techrxiv.org/f/about). A good way. A good way indeed, the issue is _always_ the affliation. But a whole chapter? Now how much does that cost? A cool two grand, really?
