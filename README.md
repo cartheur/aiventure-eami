@@ -29,12 +29,9 @@ A recent Windows version used in past experiments (v.2.4.8) is contained in the 
 
 ## Working with the emulator
 
-Create a folder in the root file folder called "runtime". In it copy whatever version suits your testing computer to run the emulator:
+Create a folder in the root file folder called "runtime". In it copy whatever version suits your testing computer to run the emulator. It works ideally with:
 
-* Linux (32-bit)
 * Linux (64-bit)
-* Mac
-* Raspberry-pi (32-bit)
 * Raspberry-pi (64-bit)
 * Windows
 
