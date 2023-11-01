@@ -8,4 +8,4 @@ Code from the experiments folder can be run using this emulator in the following
 
 Other files can be developed from Heiserman's 1981 and 1982 books respectively.
 
-There is an issue with the advanced files that I will need to investigate. Still to do is the learning script.
+When adding new lines to the code files, it is pertinent to remind oneself that in BASIC, each new line must have a `REM` prefix.
