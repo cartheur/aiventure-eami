@@ -8,4 +8,4 @@ Code from the experiments folder can be run using this emulator in the following
 
 Other files can be developed from Heiserman's 1981 and 1982 books respectively.
 
-When adding new lines to the code files, it is pertinent to remind oneself that in BASIC, each new line must have a `REM` prefix. This is a good idea.
+When adding new lines to the code files, it is pertinent to remind oneself that in BASIC, each new line must have a `REM` prefix.
