@@ -3,7 +3,7 @@
 
 # aiventure-eami
 
-An algorithm encapsulated in `E`volutionary `A`daptive `M`achine `I`ntelligence - `EAMI`.
+`E`volutionary `A`daptive `M`achine `I`ntelligence - `EAMI`.
 
 ## What is here
 
