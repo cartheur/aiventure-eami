@@ -1,4 +1,5 @@
-# Introduction
+## EAMI - The Experiments
+
 Evolutionary Adaptive Machine Intelligence - A compendium of code for Featured Intelligence
 
 Getting started: Robot Intelligence with experiments using TRS-80 code as a starting-point.
