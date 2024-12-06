@@ -1,6 +1,8 @@
 ## The paper
 
-The immediate output-goal of this project is to generate an analytical paper on the Heiserman Alpha-Beta behaviours to other kinds of currently-existing techniques. A performance and telelogical comparision. Target is techArxiv for the IEEE. Arxiv too but a publisher would be better. 
+The immediate output-goal of this project is to generate an analytical paper on the Heiserman Alpha-Beta behaviours to other kinds of currently-existing techniques. A performance and telelogical comparision. Target is techArxiv for the IEEE. Arxiv too but a publisher would be better.
+
+This will be one of three papers.
 
 ## The publisher
 
