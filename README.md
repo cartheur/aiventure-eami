@@ -53,12 +53,10 @@ The meaning implied in the data, Chapter Six of (1982), is:
 
 Last summer (2022) a set of Alpha-1 experiments were run with the emulator. It was discovered due to the length of runtime of some routines, it was a good idea to run it on an embedded board. The first choice was a NVIDIA Jetson that kept shutting down about four minutes into the running script. The next choice was a raspberry pi. As the version 3s are not suitable, an order was placed for a pi-4 that only arrived a few weeks ago. This project will revisit these experiments using the emulator on the pi-4.
 
-## The PI-4 experiments
+## Running experiments on the RaspberryPi 5 OS - Debian Bookworm
 
-The Rasperry-Pi 4 is an excellent device that brings the expected power to a battery-powered context. I ordered the 8GB version and it took nine months for it to arrive.
+The Rasperry-Pi 5 is suitable to run the code cleanly where animated gifs can capture sessional data.
 
 ![PI-4 w-8GB](/images/pi-4.jpg "Working hardware")
 
-It has a Raspbian Debian Bullseye server image with a non-interactive install so a linux computer (the best choice when developing) can use and SSH with scp to get the scripts in the emulator.
-
-You will need the desktop version of Raspbian OS. Best done through the Raspberry Pi Imager.
+It was _defintely_ worth it. Having tried since 2016, the hardware is sophisticated enough to run in an energy-efficient context.
