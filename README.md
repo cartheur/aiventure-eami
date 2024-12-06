@@ -19,19 +19,17 @@ A recent Windows version used in past experiments (v.2.4.8) is contained in the 
 
 ## Working with the emulator
 
-Create a folder in the root file folder called "runtime". In it copy whatever version suits your testing computer to run the emulator. It works ideally with:
+In the `emulator` folder are some binaries of the application. What is being currently used for testing is a stand-alone application in the `arm64` folder. Run a script in the following manner:
 
-* Linux (64-bit)
-* Raspberry-pi (64-bit)
-* Windows
+`./trs80gp experiments/alpha1/games/03-alpha1-paint.bas`
 
-And copy the individual folders from the "experiments". Then once in the runtime folder, run this command:
+And you will see
 
-'trs80gp.exe PATH-TO-THE-SCRIPT-TO-RUN'
+![paint](/playback/alpha-paint.gif)
 
-It will bring up the emulator window and you can choose to start the program. For example:
+Another:
 
-'trs80gp.exe 04-alpha1-compilation.bas' will ask you for parameters, such as the number of cycles to run:
+`./trs80gp experiments/alpha1/data/04-alpha1-compilation.bas` will ask you for parameters, such as the number of cycles to run:
 
 ![game params](/images/parameters.png "parameters")
 
