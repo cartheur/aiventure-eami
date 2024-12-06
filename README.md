@@ -25,7 +25,7 @@ In the `emulator` folder are some binaries of the application. What is being cur
 
 And you will see
 
-![paint](/playback/alpha-paint.gif)
+![paint](/playback/alpha-paint.gif "paint")
 
 Another:
 
