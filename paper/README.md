@@ -15,4 +15,6 @@ On the way to them, start [here](https://www.techrxiv.org/f/about). A good way. 
     1040: I _was totally_ right that this work by Heiserman is the state-of-the-art that has yet to be surpassed, at least via my experience and intellect. You got the chat/LLM problem-solving by English expressions to garner intent; the differential analyzer; a decider (homeostatic); array-contol of motors (of varying complexity); and _ideal_ that brings it all together into one output result expression. I know the C# version is the same as this with more detailed nomenclature on the parts, rather than PEEK and POKE as graphics movements not unlike the predator-prey theoretical model, so where to go from here? That is the ultimate question now.
     1210: Brought-over pettable thinking of what constitutes the build.
     1215: Are more examples from the book more revaling in indicating the use-case for this ideal beauty?
+    1219: Circuit calculator. Old framework winforms but equations within are solid.
+    1325: Five vscode windows will bog the system down. They are all coupled together here like one bit unit app.
     
