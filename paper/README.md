@@ -12,3 +12,4 @@ On the way to them, start [here](https://www.techrxiv.org/f/about). A good way. 
 
 18.12.2024
     1043: Working from aeon to aeon-fred-henry-delila to aiops to ideal to here (and in many ways haden and david) I am slowly realizing the only tactic I have in-hand is walking through a maze and doing shit, like a lab rat. What is being achieved here?
+    1040: I _was totally_ right that this work by Heiserman is the state-of-the-art that has yet to be surpassed, at least via my experience and intellect. You got the chat/LLM problem-solving by English expressions to garner intent; the differential analyzer; a decider (homeostatic); array-contol of motors (of varying complexity); and _ideal_ that brings it all together into one output result expression. 
