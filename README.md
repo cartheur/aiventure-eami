@@ -3,7 +3,7 @@
 
 # aiventure-eami
 
-`E`volutionary `A`daptive `M`achine `I`ntelligence - `EAMI`.
+`E`volutionary `A`daptive `M`achine `I`ntelligence - `EAMI`. A bassic form of ancient ML that reveals it is ideal.
 
 ## What is here
 
