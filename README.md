@@ -5,6 +5,8 @@
 
 `E`volutionary `A`daptive `M`achine `I`ntelligence - `EAMI`. A bassic form of ancient ML that reveals it is ideal.
 
+* Although it is less-advanced, it still reinforces the question: What purpose is best-suited an ideal system?
+
 ## What is here
 
 Due to the age of the books and what computing hardware/software was state-of-the-art at the time of their printing, the demonstratable focus of Evolutionary-Adaptive Machine Intelligence (EAMI) is contained in Basic scripts run on the TRS-80 computer. The low-level of these algorithms are an excellent place to begin with _metal_.
