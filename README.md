@@ -3,7 +3,7 @@
 
 # aiventure-eami
 
-`E`volutionary `A`daptive `M`achine `I`ntelligence - `EAMI`. A bassic form of ancient ML that reveals it is ideal.
+`E`volutionary `A`daptive `M`achine `I`ntelligence - `EAMI`. A bassic form of ancient ML that reveals it is ideal. Despite this: It's a solid set of RL algorithms.
 
 * Although it is less-advanced, it still reinforces the question: What purpose is best-suited an ideal system?
 
