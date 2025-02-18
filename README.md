@@ -41,30 +41,31 @@ The description of the algorithm, in totality, is broken-up into evolutionary co
 
 ## Running the code
 
-Multiplatform application versions of the sublime TRS80 emulator is in this [folder](/emulator/). Extract the app for the platform and copy to the root directory of the various creature evolutions. The `.gitignore` file will keep this from being checked-in. Run a script in the following manner:
+Multiplatform application versions of the sublime TRS80 emulator is in this [folder](/emulator/). Extract the app for the platform and copy to the root directory of the various creature evolutions. The `.gitignore` file will keep this from being checked-in. Run a script in the following manner.
 
 `.\trs80gp experiments\alpha-1\ch-3\32-alpha1-basic.bas`
 
-And a similar screen will appear:
+And an emulator screen will appear.
 
 ![paint](/playback/alpha-paint.gif "paint")
 
 Further:
 
-`.\trs80gp experiments\alpha1\ch-6\63-alpha1-compile.bas` will ask for parameters, such as the number of cycles to run:
+`.\trs80gp experiments\alpha1\ch-6\63-alpha1-compile.bas` will ask for parameters, such as the number of cycles to run.
 
 ![game params](/images/parameters.png "parameters")
 
-Then run the analysis:
+Then run the analysis.
 
 ![game play](/images/gameplay1.png "play")
 
-Perform its intuitive-themed task:
+Perform its intuitive-themed task.
 
 ![game progress](/images/trs80-0.gif "progress")
 
-And output the work results of the presence:
+And output the work results of the presence's experience as-per this particular experiment.
 
 ![game output](/images/output.png "output")
 
+For a deeper look, see [here](https://github.com/cartheur/ideal)
 ----
