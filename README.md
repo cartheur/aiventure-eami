@@ -11,13 +11,13 @@
 
 Due to the age of the books and what computing hardware/software was state-of-the-art at the time of their printing, the demonstratable focus of Evolutionary-Adaptive Machine Intelligence (EAMI) is contained in Basic scripts run on the TRS-80 computer. The low-level of these algorithms are an excellent place to begin with _metal_.
 
-* ALPHA-I
+* ALPHA-I [ReadMe](/experiments/alpha-1/README.md)
     - Basic
     - Scoring
     - Navigation (maze)
     - Strategy (paint)
     - Confidence (compile)
-* ALPHA-II
+* ALPHA-II [ReadMe](/experiments/alpha-2/README.md)
     - Basic
     - Stratgy (feeding)
     - Priority (nest)
@@ -26,15 +26,15 @@ Due to the age of the books and what computing hardware/software was state-of-th
     - Multisense
     - Sense-Response
     - Duality (unbiased Anticipation data)
-* BETA-I
+* BETA-I [ReadMe](/experiments/beta-1/README.md)
     - Basic
     - Scoring
     - Confidence (decision seed)
     - Scoring (memory)
     - Confidence (memory-seed-compile)
-* BETA-II
+* BETA-II [ReadMe](/experiments/beta-2/README.md)
     - TBD
-* GAMMA-I
+* GAMMA-I [ReadMe](/experiments/gamma-1/README.md)
     - General structure
     - General template architecture
     - Runtime presence
