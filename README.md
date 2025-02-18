@@ -3,13 +3,11 @@
 
 # aiventure-eami
 
-`E`volutionary `A`daptive `M`achine `I`ntelligence - `EAMI`. A bassic form of ancient ML that reveals it is ideal. Despite this: It's a solid set of RL algorithms.
-
-* Although it is less-advanced, it still reinforces the question: What purpose is best-suited an ideal system?
+`E`volutionary `A`daptive `M`achine `I`ntelligence - `EAMI`. An algorithm described by David Heiserman in _Robot Intelligence_ in 1981.
 
 ## Index
 
-Due to the age of the books and what computing hardware/software was state-of-the-art at the time of their printing, the demonstratable focus of Evolutionary-Adaptive Machine Intelligence (EAMI) is contained in Basic scripts run on the TRS-80 computer. The low-level of these algorithms are an excellent place to begin with _metal_.
+The description of the algorithm, in totality, is broken-up into evolutionary complexities, called _creatures_. These creatures have an increasing complexity to the point that they are autonomous programs who learn by Reinforcement Learning I have encapsulated as _Ideal_. This code repository and evolutionary complexity serves as a foundational perspective on self-governing programs where the ultimate aspect is one that is homeostatic, or when is manifest as a presence. See [US20180204107A1](/literature/US20180204107A1.pdf).
 
 * ALPHA-I [ReadMe](/experiments/alpha-1/README.md)
     - Basic
