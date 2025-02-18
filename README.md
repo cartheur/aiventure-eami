@@ -67,4 +67,4 @@ And output the results of the agents' work:
 
 ![game output](/images/output.png "output")
 
-To be continued.
+----
