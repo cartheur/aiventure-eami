@@ -1,3 +1,3 @@
-## Beta-Class creatures
+## Beta-II-Class creatures
 
 Words.

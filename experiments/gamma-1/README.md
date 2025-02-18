@@ -1,3 +1,3 @@
-## Gamma-Class creatures
+## Gamma-!-Class creatures
 
 Words.
