@@ -5,7 +5,7 @@
 
 _`E`volutionary `A`daptive `M`achine `I`ntelligence - `EAMI`_
 
-An elegant and self-descriptive algorithm described by David Heiserman in _Robot Intelligence_ in 1981 written to run on the TRS-80.
+An elegant and self-descriptive machine intelligence described by David Heiserman in 1981 written to run on the TRS-80.
 
 ## Index
 
