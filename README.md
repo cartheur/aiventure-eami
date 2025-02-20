@@ -41,7 +41,7 @@ The description of the algorithm, in totality, is broken-up into evolutionary co
 
 ## Running the code
 
-Multiplatform application versions of the sublime TRS80 emulator is in this [folder](/emulator/). Extract the app for the platform and copy to the root directory of the various creature evolutions. The `.gitignore` file will keep this from being checked-in. Run a script in the following manner.
+Multiplatform application versions of the sublime TRS80 emulator are in this [folder](/emulator/). Extract the app for the platform and copy to the root directory of the various creature evolutions. The `.gitignore` file will keep this from being checked-in. Run a script in the following manner.
 
 `.\trs80gp experiments\alpha-1\ch-3\32-alpha1-basic.bas`
 
