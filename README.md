@@ -17,7 +17,7 @@ The creation of a hierarchical-classed artficial creature follows a very logical
     - A machine of this type can remember and use successful responses of the past to help solve problems of the present.
 * _Gamma Class_: Knowledge of past, present, and future conditions.
     - A machine of this type lives in the present and has recall of past events. It has the ability to anticipate future events by drawing upon remembered experiences and generalizing them toward future conclusions.
-* _Delta Class_: TBD.
+* _Delta Class_: Knowledge of past, present, and future conditions with the ability to plan outcomes.
 
 ## The Algorithm
 
