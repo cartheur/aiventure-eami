@@ -1,3 +1,3 @@
-## Alpha-!-Class creatures
+## Alpha-I-Class creatures
 
 Words.
