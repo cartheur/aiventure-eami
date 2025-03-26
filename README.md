@@ -5,7 +5,7 @@
 
 _`E`volutionary `A`daptive `M`achine `I`ntelligence - `EAMI`_
 
-An elegant machine intelligence described by David Heiserman in TRS-80 Color Basic.
+An elegant machine intelligence (MI) described by David Heiserman in TRS-80 Color Basic.
 
 ## Index
 
