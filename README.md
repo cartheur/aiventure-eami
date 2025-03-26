@@ -112,5 +112,7 @@ And output the work results of the presence's experience as-per this particular 
 
 ![game output](/images/output.png "output")
 
-For a deeper look, see [here](https://github.com/cartheur/ideal)
-----
+### The forward look
+
+A modern version is tabled [here](https://github.com/cartheur/ideal).
+
