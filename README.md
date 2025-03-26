@@ -7,7 +7,15 @@ _`E`volutionary `A`daptive `M`achine `I`ntelligence - `EAMI`_
 
 An elegant machine intelligence (MI) described by David Heiserman in TRS-80 Color Basic.
 
-## Index
+## Background
+
+The creation of a hierarchy of classed-creature follows a very logical pattern:
+
+* _Alpha Class_ — Knowledge of present conditions only.
+* _Beta Class_ — Knowledge of past and present conditions.
+* _Gamma Class_ — Knowledge of past, present, and future conditions, similar to how Aristolte imagined our place in it.
+
+## The Algorithm
 
 The description of the algorithm, in totality, is broken-up into evolutionary complexities, called _creatures_. These creatures have an increasing complexity to the point that they are autonomous programs who learn by Reinforcement Learning I have encapsulated as _Ideal_. This code repository and evolutionary complexity serves as a foundational perspective on self-governing programs where the ultimate aspect is one that is homeostatic, or when is manifest as a presence. See [US20180204107A1](/literature/US20180204107A1.pdf).
 
