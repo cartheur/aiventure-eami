@@ -9,7 +9,7 @@ An elegant machine intelligence (MI) described by David Heiserman in TRS-80 Colo
 
 ## Background
 
-The creation of a hierarchy of classed-creature follows a very logical pattern:
+The creation of a hierarchical-classed artficial creature follows a very logical pattern:
 
 * _Alpha Class_ — Knowledge of present conditions only.
 * _Beta Class_ — Knowledge of past and present conditions.
