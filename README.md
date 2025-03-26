@@ -74,6 +74,11 @@ a Beta-Class mechanism couples Alpha-Class behavior with an ability _to remember
     - Confidence (memory-seed-compile)
 * BETA-II [ReadMe](/experiments/beta-2/README.md)
     - TBD
+
+_The Gamma-Class Machine_
+
+Words.
+
 * GAMMA-I [ReadMe](/experiments/gamma-1/README.md)
     - General structure
     - General template architecture
