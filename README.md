@@ -46,7 +46,8 @@ time whenever (1) it is turned on and (2) the creature makes contact with any li
 
 _The Beta-Class Machine_
 
-
+A Beta-Class machine still relies heavily upon elements of Alpha behavior, which are contained as subroutines tucked into the Beta flowcharts and programs. The big difference is that
+a Beta-Class mechanism couples Alpha-Class behavior with an ability _to remember_ events in the past. And of course, it not only remembers past events, but also has the capacity to act upon those memories at any time in the future. Generally speaking, a Beta-Class mechanism is an Alpha creature that is coupled to a memory scheme.
 
 * BETA-I [ReadMe](/experiments/beta-1/README.md)
     - Basic
