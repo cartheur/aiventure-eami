@@ -9,7 +9,7 @@ An elegant machine intelligence (MI) described by David Heiserman in TRS-80 Colo
 
 ## Background
 
-The creation of a hierarchical-classed artficial creature follows a very logical pattern:
+The description of a hierarchical-classed artficial creature follows a well-defined pattern:
 
 * _Alpha Class_: Knowledge of present conditions only.
     - A machine of this type shows only reflexive responses to changing environmental conditions. It lives "in the moment" and has no memory of past experience.
