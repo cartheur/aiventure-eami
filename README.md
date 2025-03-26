@@ -12,8 +12,11 @@ An elegant machine intelligence (MI) described by David Heiserman in TRS-80 Colo
 The creation of a hierarchical-classed artficial creature follows a very logical pattern:
 
 * _Alpha Class_ — Knowledge of present conditions only.
+    - A machine of this type shows only reflexive responses to changing environmental conditions. It lives "in the moment" and has no memory of past experience.
 * _Beta Class_ — Knowledge of past and present conditions.
+    - A machine of this type can remember and use successful responses of the past to help solve problems of the present.
 * _Gamma Class_ — Knowledge of past, present, and future conditions, similar to how Aristolte imagined our place in it.
+    - A machine of this type lives in the present and has recall of past events. It has the ability to anticipate future events by drawing upon remembered experiences and generalizing them toward future conclusions.
 
 ## The Algorithm
 
