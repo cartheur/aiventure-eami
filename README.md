@@ -34,7 +34,12 @@ this is a computer simulation and as such isn’t absolutely necessary. However,
 source. Figure 7-1 shows the screen format for this ALPHA-II project. 
 
 The border is made up of non-flashing line segments and is thus considered something to be avoided. The next rectangle near the center of the screen, on the other hand, flashes one
-time whenever (1) it is turned on and (2) the creature makes contact with any lighted segment on the screen. Whenever the nest is turned off, it no longer flashes and is treated as a barrier to be avoided. Whenever the creature senses contact with the nest and the nest is turned on, the creature responds by resting at the nest until it is turned off. In a sense, this resting response is an in-born reflex, the first and one of a very few pre-programmed responses. Having this one pre-programmed response built into an Alpha-Class machine does not really violate the purity of the adaptive machine. Alpha-Class machines do not have the capacity for learning how to respond to a positive influence of this kind, and in the real world, an inborn reflex of this kind would be absolutely essential to survival. Rest assured, higher-order machines such as _Beta-I_ and _Beta-II_ will have to learn to deal with the nest situation on their own, first by trail and error and then by purposeful intent.
+time whenever:
+
+1. It is turned on, and,
+2. The creature makes contact with any lighted segment on the screen.
+
+Whenever the nest is turned off, it no longer flashes and is treated as a barrier to be avoided. Whenever the creature senses contact with the nest and the nest is turned on, the creature responds by resting at the nest until it is turned off. In a sense, this resting response is an in-born reflex, the first and one of a very few pre-programmed responses. Having this one pre-programmed response built into an Alpha-Class machine does not really violate the purity of the adaptive machine. Alpha-Class machines do not have the capacity for learning how to respond to a positive influence of this kind, and in the real world, an inborn reflex of this kind would be absolutely essential to survival. Rest assured, higher-order machines such as _Beta-I_ and _Beta-II_ will have to learn to deal with the nest situation on their own, first by trail and error and then by purposeful intent.
 
 * ALPHA-I [ReadMe](/experiments/alpha-1/README.md)
     - Basic
