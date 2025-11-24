@@ -5,11 +5,11 @@
 
 _`E`volutionary `A`daptive `M`achine `I`ntelligence - `EAMI`_
 
-An elegant machine intelligence described by David Heiserman in TRS-80 Color Basic.
+An elegant machine intelligence described by David Heiserman in TRS-80 Color Basic that which cannot lose its luster.
 
 ## Index
 
-The description of the algorithm, in totality, is broken-up into evolutionary complexities, called _creatures_. These creatures have an increasing complexity to the point that they are autonomous programs who learn by Reinforcement Learning I have encapsulated as _Ideal_. This code repository and evolutionary complexity serves as a foundational perspective on self-governing programs where the ultimate aspect is one that is homeostatic, or when is manifest as a presence. See [US20180204107A1](/literature/US20180204107A1.pdf).
+The description of the algorithm, in totality, is broken-up into evolutionary complexities, called _creatures_. These 'forest' creatures have an increasing complexity to the point that they are autonomous programs who learn by Reinforcement Learning I have encapsulated as _Ideal_ where it is going into novel territory. This code repository and evolutionary complexity serves as a foundational perspective on self-governing programs where the ultimate aspect is one that is homeostatic, or when is manifest as a presence. See [US20180204107A1](/literature/US20180204107A1.pdf).
 
 * ALPHA-I [ReadMe](/experiments/alpha-1/README.md)
     - Basic
