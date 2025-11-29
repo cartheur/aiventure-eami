@@ -77,7 +77,7 @@ a Beta-Class mechanism couples Alpha-Class behavior with an ability _to remember
 
 _The Gamma-Class Machine_
 
-Words.
+A Gamma-Class robot includes the reflex and memory features of the two lower-order machines, but it also has the ability to _generalize whatever it learns_ through direct experience. Once a Gamma-Class robot meets and solves a particular problem, it not only remembers the solution, but generalizes that solution to a variety of similar situations not yet encountered. Such a robot need not encounter every possible situation before discovering what it is supposed to do; rather, it generalizes its first-hand responses, thereby making it possible to deal with the unexpected elements of its life more effectively. To get a clearer impression of how a Gamma-Class robot learns and thinks, suppose its initial successful response to a bright flashing lightis to attack it and knock it over. The machine generalizes that particular aggressive response to a wide range of different environmental situations involving bright flashing lights in particular and, perhaps, any sort of light in general. It is impossible to say how deep this experience will penetrate the robot's view of his world. To be sure, this particular machine will exhibit elements of aggressive behavior that might even extend to situations other than those directly related to bright flashing lights.
 
 * GAMMA-I [ReadMe](/experiments/gamma-1/README.md)
     - General structure
