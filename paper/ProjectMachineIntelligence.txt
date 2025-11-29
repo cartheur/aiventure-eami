@@ -3,5 +3,5 @@ A project for machine intelligence
 
 19.11.2025
     1012: With a Volatco, this project can move forward in-earnest.
-    1114: Reading the 1978 Modern Electronics article, where I have finally found the Delta evidence. Why not simply implementing what he says in these two pages? This and nothing more?
+    1114: Reading the 1978 Modern Electronics article, which contains the Delta evidence. Why not simply implementing what he says in these two pages?
     
