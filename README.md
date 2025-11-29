@@ -91,7 +91,7 @@ One further refinement that is entirely possible today is extending the Gamma-Cl
 So as the Delta-Class robot experiences events in its world, it evolves a hierarchy of responses having a high, medium, and low level of confidence. The machine, however, does not like responses with a low confidence level to exist within itself, so it sets out to encourage those events that call for a test of its responses gained by inference or second-hand generalization. The delta-class machine might not be wholly successful in its attempts to set-up new environmental conditions, but it works at the job ceaselessly. It has a will of its own: It programs itself, setting goals aimed at enhancing its confidence in dealing with the world as it perceives it.
 
 * DELTA-I [ReadMe](/experiments/delta-1/README.md)
-    - To be donee
+    - TBD
 
 ## Running the code
 
