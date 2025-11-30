@@ -18,6 +18,7 @@ The description of a hierarchical-classed artficial creature follows a well-defi
 * _Gamma Class_: Knowledge of past, present, and future conditions.
     - A machine of this type lives in the present and has recall of past events. It has the ability to anticipate future events by drawing upon remembered experiences and generalizing them toward future conclusions.
 * _Delta Class_: Knowledge of past, present, and future conditions with the ability to plan outcomes.
+    - A machine of this type contemplates the kind of reactions to phenomona it has experienced while transiting the prior classes. Hence, it is _intrinsically_ a discrete evolution.
 
 ## The Algorithm
 
@@ -27,18 +28,13 @@ _The Alpha-Class Machine_
 
 All Alpha-Class machines make purely random responses to changes they sense in their environments. The ALPHA-I creature has only one sensory mechanism and one way to respond: It senses only light-colored segments on the screen and responds by attempting to get away from them.
 
-Alpha-Class adaptive machines need not be limited to single sensory and response mechanisms. There can be any number of sense/response mechanisms, and there are no limits on how
-simple or complex those mechanisms can be. The defining feature of an Alpha-Class machine is that it makes random responses or, in a few cases, pre-programmed responses. The heirarchy of Alpha-Class machines can be divided into subgroups such as _Alpha-I_, _Alpha-II_ and so on. An Alpha-I version is the simplest possible Alpha-Class machine. ALPHA-I senses two, mutually exclusive conditions in its environment, namely being in a condition of running into a barrier or in a condition where it is free from any barrier contact. Furthermore, ALPHA-I responds to any barrier-contact situation with a negative "flight" response. The only response mechanism is one aimed at getting the creature away from such barriers.
+Alpha-Class adaptive machines need not be limited to single sensory and response mechanisms. There can be any number of sense/response mechanisms, and there are no limits on how simple or complex those mechanisms can be. The defining feature of an Alpha-Class machine is that it makes random responses or, in a few cases, pre-programmed responses. The heirarchy of Alpha-Class machines can be divided into subgroups such as _Alpha-I_, _Alpha-II_ and so on. An Alpha-I version is the simplest possible Alpha-Class machine. ALPHA-I senses two, mutually exclusive conditions in its environment, namely being in a condition of running into a barrier or in a condition where it is free from any barrier contact. Furthermore, ALPHA-I responds to any barrier-contact situation with a negative "flight" response. The only response mechanism is one aimed at getting the creature away from such barriers.
 
-The antithesis of running into a barrier is being free from such a condition which is a more desirable condition. It responds by performing the response that works. In other words, an
-ALPHA-I that is free from negative conditions in its environment keeps on moving the same way. An Alpha-II machine is a bit more sophisticated. It has the ability to distinguish a larger number of environmental conditions and react accordingly. The reactions are still randomly selected, however. Specifically, the ALPHA-II creature introduced in this chapter can sense the difference between two different kinds of lighted segments on the screen, lighted segments that flash and lighted segments that do not flash. In this case, lighted segments that flash are considered positive, desirable elements of the environment-running into a flashing lighted segment is "good". Running into a non-flashing lighted segment, however, is still considered "bad", and ALPHA-II responds accordingly.
+The antithesis of running into a barrier is being free from such a condition which is a more desirable condition. It responds by performing the response that works. In other words, an ALPHA-I that is free from negative conditions in its environment keeps on moving the same way. An Alpha-II machine is a bit more sophisticated. It has the ability to distinguish a larger number of environmental conditions and react accordingly. The reactions are still randomly selected, however. Specifically, the ALPHA-II creature introduced in this chapter can sense the difference between two different kinds of lighted segments on the screen, lighted segments that flash and lighted segments that do not flash. In this case, lighted segments that flash are considered positive, desirable elements of the environment-running into a flashing lighted segment is "good". Running into a non-flashing lighted segment, however, is still considered "bad", and ALPHA-II responds accordingly.
 
-The "good" flashing light on the screen is going to be a nest where the creature presumably gathers nourishment or engages in some other form of activity vital to its survival. Of course,
-this is a computer simulation and as such isn’t absolutely necessary. However, if ALPHA-II were a real machine, the "nest" could represent a battery charger or a similar kind of energy
-source. Figure 7-1 shows the screen format for this ALPHA-II project. 
+The "good" flashing light on the screen is going to be a nest where the creature presumably gathers nourishment or engages in some other form of activity vital to its survival. Of course, this is a computer simulation and as such isn’t absolutely necessary. However, if ALPHA-II were a real machine, the "nest" could represent a battery charger or a similar kind of energy source. 
 
-The border is made up of non-flashing line segments and is thus considered something to be avoided. The next rectangle near the center of the screen, on the other hand, flashes one
-time whenever:
+The border is made up of non-flashing line segments and is thus considered something to be avoided. The next rectangle near the center of the screen, on the other hand, flashes one time whenever:
 
 1. It is turned on, and,
 2. The creature makes contact with any lighted segment on the screen.
